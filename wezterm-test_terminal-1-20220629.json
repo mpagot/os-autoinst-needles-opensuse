@@ -1,0 +1,17 @@
+{
+  "area": [
+    {
+      "xpos": 103,
+      "ypos": 461,
+      "width": 447,
+      "height": 21,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "test-wezterm-1",
+    "test_terminal",
+    "wezterm"
+  ]
+}
