@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 104,
+      "ypos": 174,
+      "width": 156,
+      "height": 22,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "hello-world"
+  ]
+}
